@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "rimraf docs && parcel build src/index.html -d docs"
+    "build": "parcel build src/index.html -d docs"
   },
   "devDependencies": {
     "bulma": "^0.8.0",
@@ -11,7 +11,6 @@
     "elm-hot": "^1.1.4",
     "elm-test": "^0.19.1-revision2",
     "parcel-bundler": "^1.12.4",
-    "rimraf": "^3.0.0",
     "sass": "^1.24.0"
   }
 }
