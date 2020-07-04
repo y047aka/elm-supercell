@@ -10,7 +10,7 @@
             "elm/core": "1.0.5",
             "elm/html": "1.0.0",
             "rtfeldman/elm-css": "16.0.1",
-            "y047aka/elm-hsl-color": "1.0.1",
+            "y047aka/elm-hsl-color": "1.0.2",
             "y047aka/elm-reset-css": "2.0.0"
         },
         "indirect": {
