@@ -5,12 +5,10 @@
   },
   "devDependencies": {
     "elm": "^0.19.1-5",
-    "elm-analyse": "^0.16.5",
     "elm-format": "^0.8.5",
     "elm-hot": "^1.1.6",
-    "elm-json": "^0.2.10",
-    "elm-test": "^0.19.1-revision6",
-    "node-elm-compiler": "^5.0.5",
+    "elm-test": "^0.19.1-revision7",
+    "node-elm-compiler": "^5.0.6",
     "parcel": "^1.12.4"
   }
 }
